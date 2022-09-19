@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CongestionModels\CongestionModels.csproj" />
+    <ProjectReference Include="..\Congestion\CongestionCalculator.csproj" />
   </ItemGroup>
 
 </Project>
