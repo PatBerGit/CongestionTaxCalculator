@@ -1,0 +1,12 @@
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\bin\Debug\net6.0\CongestionModels.deps.json
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\bin\Debug\net6.0\CongestionModels.dll
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\bin\Debug\net6.0\CongestionModels.pdb
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\obj\Debug\net6.0\CongestionModels.csproj.AssemblyReference.cache
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\obj\Debug\net6.0\CongestionModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\obj\Debug\net6.0\CongestionModels.AssemblyInfoInputs.cache
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\obj\Debug\net6.0\CongestionModels.AssemblyInfo.cs
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\obj\Debug\net6.0\CongestionModels.csproj.CoreCompileInputs.cache
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\obj\Debug\net6.0\CongestionModels.dll
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\obj\Debug\net6.0\refint\CongestionModels.dll
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\obj\Debug\net6.0\CongestionModels.pdb
+C:\Users\pbergsan\source\repos\CongestionTaxCalculatorWebApi\CongestionModels\obj\Debug\net6.0\ref\CongestionModels.dll

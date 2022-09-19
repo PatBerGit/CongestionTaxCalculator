@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="ConfigFiles\Holidays.json" />
+    <Content Remove="ConfigFiles\HourTaxes.json" />
+    <Content Remove="ConfigFiles\TollfreeVehicles.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="ConfigFiles\Holidays.json" />
+    <EmbeddedResource Include="ConfigFiles\HourTaxes.json" />
+    <EmbeddedResource Include="ConfigFiles\TollfreeVehicles.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CongestionModels\CongestionModels.csproj" />
+  </ItemGroup>
+
+</Project>
